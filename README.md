@@ -8,7 +8,7 @@
 <h1 align="center">🎯 SecondOrder</h1>
 <p align="center">
   <strong>AI-Powered Strategic Business Simulation Engine</strong><br>
-  https://second-order-45sf.onrender.com
+  <strong>https://second-order-45sf.onrender.com</strong><br>
   <em>See beyond the obvious. Model the ripple effects of every decision.</em>
 </p>
 
