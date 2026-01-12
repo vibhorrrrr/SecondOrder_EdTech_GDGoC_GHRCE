@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">🎯 SecondOrder</h1>
-
+https://second-order-45sf.onrender.com
 <p align="center">
   <strong>AI-Powered Strategic Business Simulation Engine</strong><br>
   <em>See beyond the obvious. Model the ripple effects of every decision.</em>
@@ -37,7 +37,7 @@ Traditional financial models are **dangerously naive**. They assume:
 
 ---
 
-## ✅ The Solution-> https://second-order-45sf.onrender.com
+## ✅ The Solution
 
 **SecondOrder** is a next-generation business simulation engine that models the **true physics of business decision-making** through three lenses:
 
