@@ -37,7 +37,7 @@ Traditional financial models are **dangerously naive**. They assume:
 
 ---
 
-## ✅ The Solution-> https://second-order-45sf.onrender.com/dashboard
+## ✅ The Solution-> https://second-order-45sf.onrender.com
 
 **SecondOrder** is a next-generation business simulation engine that models the **true physics of business decision-making** through three lenses:
 
